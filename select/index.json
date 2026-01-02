@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "HORN",
+  "base_artist": "Kroi",
+  "createdAt": "2026-01-02T11:24:42.010769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Satanic Slumber Party Part 3 (Hoof And Horn)",
+      "artist": "Tropical Fuck Storm feat. King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Satanic_Slumber_Party_Part_3_(Hoof_And_Horn)_Tropical_Fuck_Storm_feat._King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Between The Halo And The Horn",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/02_Between_The_Halo_And_The_Horn_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "04 - Between The Halo And The Horn",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/03_04_-_Between_The_Halo_And_The_Horn_A.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alle hörn jetzt Schlager",
+      "artist": "Fettes Brot",
+      "has_synced": true,
+      "path": "select/04_Alle_hörn_jetzt_Schlager_Fettes_Brot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little Horn",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/05_Little_Horn_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Can Talk - French Horn Rebellion Remix",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/06_I_Can_Talk_-_French_Horn_Rebellion_Remix_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Can Talk (French Horn Rebellion Remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/07_I_Can_Talk_(French_Horn_Rebellion_Remix)_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Between The Halo And The Horn",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/08_Between_The_Halo_And_The_Horn_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Man With A Horn",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/09_The_Man_With_A_Horn_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Battle at Little Big Horn",
+      "artist": "White Lion",
+      "has_synced": true,
+      "path": "select/10_Battle_at_Little_Big_Horn_White_Lion.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are One (Shrine Horn Mix)",
+      "artist": "Blaze",
+      "has_synced": false,
+      "path": "select/11_We_Are_One_(Shrine_Horn_Mix)_Blaze.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little Big Horn",
+      "artist": "Running Wild",
+      "has_synced": true,
+      "path": "select/12_Little_Big_Horn_Running_Wild.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chain of the Golden Horn",
+      "artist": "Leaves' Eyes",
+      "has_synced": true,
+      "path": "select/13_Chain_of_the_Golden_Horn_Leaves'_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chain of the Golden Horn (Instrumental version)",
+      "artist": "Leaves’ Eyes",
+      "has_synced": true,
+      "path": "select/14_Chain_of_the_Golden_Horn_(Instrumental_version)_Leaves’_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Horn of Betrayal",
+      "artist": "DevilDriver",
+      "has_synced": true,
+      "path": "select/15_Horn_of_Betrayal_DevilDriver.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Van Horn",
+      "artist": "Saint Motel",
+      "has_synced": true,
+      "path": "select/16_Van_Horn_Saint_Motel.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gates of Horn and Ivory",
+      "artist": "The Agonist",
+      "has_synced": true,
+      "path": "select/17_Gates_of_Horn_and_Ivory_The_Agonist.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Finest Worksong (Mutual Drum Horn Mix)",
+      "artist": "R.E.M.",
+      "has_synced": false,
+      "path": "select/18_Finest_Worksong_(Mutual_Drum_Horn_Mix)_R.E.M..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HORN",
+      "artist": "Kroi",
+      "has_synced": false,
+      "path": "select/pl_01_HORN_Kroi.txt"
+    }
+  ]
+}
